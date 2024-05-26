@@ -7,6 +7,7 @@
 ![333795567-e2531f17-04fc-464e-80f4-353f889acaad](https://github.com/MinhFX/POS/assets/146899219/d593b1b2-e779-4944-8d14-067e5d56b976)
 ![333795565-e605df6e-91a7-4a0a-9172-47ec7cc2844e](https://github.com/MinhFX/POS/assets/146899219/a741156f-3a08-431c-a4d8-bab9cefda1c7)
 ![333795572-f9639dec-e8b8-4f82-854a-aa96404720a7](https://github.com/MinhFX/POS/assets/146899219/75e7bfc5-c3d5-4cdf-8cba-803a63eea6ed)
+
 Hãy cài SQLServer nếu bạn chưa có !! Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !! Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !! Hãy cài MayPOS trong Folder được phép chỉnh sửa các tệp !!
 
 Trước khi vào ứng dụng vui lòng thực hiện các bước sau:
