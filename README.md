@@ -42,15 +42,15 @@ Chú ý:
 Tài khoản đăng nhập
 - Quyền quản trị:
 
-Username: lychidung
+Username: lychidung  
 Password: 2005
 
 - Quyền Staff:
 
-Username: nguyendientriminh
+Username: nguyendientriminh  
 Password: 2005
 
-Username: tranthanhphat
+Username: tranthanhphat  
 Password: 2005
 
 -------------------------
