@@ -43,16 +43,16 @@ Chúc bạn cài đặt thành công !!
 Tài khoản đăng nhập
 - Quyền quản trị:
 
-Username: lychidung  
-Password: 2005
+  Username: lychidung  
+  Password: 2005
 
 - Quyền Staff:
 
-Username: nguyendientriminh  
-Password: 2005
+  Username: nguyendientriminh  
+  Password: 2005
 
-Username: tranthanhphat  
-Password: 2005
+  Username: tranthanhphat  
+  Password: 2005
 
 -------------------------
 # Folder kiểm kê:
